@@ -154,12 +154,13 @@ Outliers may represent VIP customers or bulk buyers.
 4. Applied K-Means clustering
 5. Assigned cluster labels
 
-Optimal clusters selected: 4
+Optimal clusters selected: 
+```python
+4
 ```
 
----
 
-# Cluster Interpretation
+# cluster interpretation
 
 | Cluster | Characteristics | Customer Type |
 |---|---|---|
@@ -168,9 +169,10 @@ Optimal clusters selected: 4
 | 2 | least recency, lowest frequency and monetary value | churned or lost Customers |
 | 3 | Low spending and infrequent purchases | One time shoppers |
 
----
 
-Actionable Recommendations for Customer Segments
+# Business Recommendations
+
+## Actionable Recommendations for Customer Segments
 Based on the K-Means clustering, here are tailored recommendations for each identified customer segment:
 
 Cluster 0: Promising Customers

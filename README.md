@@ -175,11 +175,11 @@ Optimal clusters selected:
 ## Actionable Recommendations for Customer Segments
 Based on the K-Means clustering, here are tailored recommendations for each identified customer segment:
 
-Cluster 0: Promising Customers
+### Cluster 0: Promising Customers
 
-Goal: Increase purchase frequency and average order value to move them into the 'Loyal & High-Value' segment.
+**Goal:** Increase purchase frequency and average order value to move them into the 'Loyal & High-Value' segment.
 
-Recommendations:
+**Recommendations:**
 
 1)Personalized Product Recommendations: Use past purchase data to suggest complementary or upgraded products.
 
@@ -192,11 +192,11 @@ Recommendations:
 5)Follow-up Campaigns: Send targeted emails after a purchase, asking for reviews and suggesting related items.
 
 
-Cluster 1: Loyal & High-Value Customers (Champions)
+### Cluster 1: Loyal & High-Value Customers (Champions)
 
-Goal: Retain their loyalty, encourage repeat purchases, and leverage them for advocacy.
+**Goal:** Retain their loyalty, encourage repeat purchases, and leverage them for advocacy.
 
-Recommendations:
+**Recommendations:**
 
 1)Exclusive Loyalty Rewards: Implement a top-tier loyalty program with special benefits, discounts, or services not available to others.
 
@@ -209,11 +209,11 @@ Recommendations:
 5)Feedback & Co-creation: Involve them in product development or ask for feedback on new services to deepen their sense of ownership and value.
 
 
-Cluster 2: Churned/Lost Customers
+### Cluster 2: Churned/Lost Customers
 
-Goal: Attempt to re-engage a portion of these customers, but with a focus on cost-effectiveness.
+**Goal:** Attempt to re-engage a portion of these customers, but with a focus on cost-effectiveness.
 
-Recommendations:
+**Recommendations:**
 
 1)Win-back Campaigns: Send targeted emails with strong incentives (e.g., significant discounts, free shipping) for their next purchase.
 
@@ -224,11 +224,11 @@ Recommendations:
 4)Sunset Strategy: For those who don't respond to multiple re-engagement efforts, consider removing them from active marketing lists to optimize resources.
 
 
-Cluster 3: New/One-Time Shoppers (Potential)
+### Cluster 3: New/One-Time Shoppers (Potential)
 
-Goal: Convert them into repeat buyers and guide them towards becoming 'Promising Customers'.
+**Goal:** Convert them into repeat buyers and guide them towards becoming 'Promising Customers'.
 
-Recommendations:
+**Recommendations:**
 
 1)Onboarding Email Series: Send a series of welcome emails introducing them to the brand, popular products, and key benefits.
 
